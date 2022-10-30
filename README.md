@@ -49,7 +49,7 @@ To use the **financial_planning_tools** simply clone the repository and run the 
     conda deactivate 
 ```
 
-Plots of Cumulative Returns, Daily Returns and 21-Day Rolling Standard Deviation.
+Plots of Monte Carlo Simulation
 
 ![5-4-monte-carlo-histogram](Images/5-4-monte-carlo-histogram.png)
 
