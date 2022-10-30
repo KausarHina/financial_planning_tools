@@ -55,7 +55,7 @@ Plots of Monte Carlo Simulation
 
 
 
-![5-4-monte-carlo-line-plot](5-4-monte-carlo-line-plot.png)
+![5-4-monte-carlo-line-plot](Images/5-4-monte-carlo-line-plot.png)
 
 
 ---
